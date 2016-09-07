@@ -1,7 +1,7 @@
 {
   "name": "bitcoin-unlimited-web-downloads",
   "authors": [
-    "Bitcoin Unlimited Developers"
+    "Bitcoin Unlimited Developers",
     "Trevin Hofmann <trevinhofmann@gmail.com>"
   ],
   "description": "The Bitcoin Unlimited website downloads",
