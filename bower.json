@@ -1,0 +1,16 @@
+{
+  "name": "bitcoin-unlimited-web-downloads",
+  "authors": [
+    "Bitcoin Unlimited Developers"
+    "Trevin Hofmann <trevinhofmann@gmail.com>"
+  ],
+  "description": "The Bitcoin Unlimited website downloads",
+  "keywords": [
+    "bitcoin",
+    "unlimited",
+    "website",
+    "downloads"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.bitcoinunlimited.info/"
+}
