@@ -1,0 +1,13 @@
+{ 'files': { 'bch-unlimited-1.9.0.0-arm32.tar.gz': '54acab9f497473f557995bfa0575bbd3eaae96cd687bd4607151b7f80ee3b78c',
+             'bch-unlimited-1.9.0.0-arm64.tar.gz': '66f885cc6a91a4ed6c85ec9df1424e7ef63638f0fca169a9ed15947c9c0d21be',
+             'bch-unlimited-1.9.0.0-linux32.tar.gz': 'e4cfed2c2f1dfd7db865a558cbb016f3bde1813029ebdb215df2e7f94fe4f26d',
+             'bch-unlimited-1.9.0.0-linux64.tar.gz': '81fef8b1422a50fd49d64dba9c0dc6420663d436dfcea6c066e0f0561a753c92',
+             'bch-unlimited-1.9.0.0-osx.dmg': 'a75c67eac9b09739e1e052fad3da5e9e88ff63413013c0701a7da18b7a382f38',
+             'bch-unlimited-1.9.0.0-osx.tar.gz': '8cd102bc558d06ecf5593a85bf771a8b8cd30d417afedaa556ad116899a04730',
+             'bch-unlimited-1.9.0.0-osx64.tar.gz': '886e6e0cc098a68be3367a421c024962bed7c644856a42addfe5b417a430a5d5',
+             'bch-unlimited-1.9.0.0-win32-setup.exe': 'c23dcc9d9fc64e9f7a8437aec81d893ab661d3a7830c331cad483906d58db94e',
+             'bch-unlimited-1.9.0.0-win32.zip': 'c889a4c9ca7da841aa41ae85291b31d12f70b07ee08ca37b446787abb21619cb',
+             'bch-unlimited-1.9.0.0-win64-setup.exe': 'ec037825fad13fce036c5ece885782d59d579bbe7f26267b2af5326400a2d61f',
+             'bch-unlimited-1.9.0.0-win64.zip': '87b1cf9eb964b0138815b1449019112cc1434cbe1b3fe30eccc90dae21b572c6'},
+  'program': 'BCH unlimited',
+  'version': '1.9.0.0'}
